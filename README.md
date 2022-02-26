@@ -1,6 +1,6 @@
 # Install 
-This project uses Node.js and npm, use 'npm install' amd 'node app.js' in cmd.
-[MongoDB](https://www.mongodb.com/try/download/community)needs to be running locally with defaults ports
+This project uses Node.js and npm, use 'npm install' and 'node app.js' in cmd.
+[MongoDB](https://www.mongodb.com/try/download/community) needs to be running locally with defaults ports
 .env was upload just for test purpose
 
 # Usage
